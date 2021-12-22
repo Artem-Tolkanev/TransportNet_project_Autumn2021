@@ -1,0 +1,10 @@
+<NUMBER OF ZONES> 3 
+<TOTAL OD FLOW>  3000.00 
+<END OF METADATA>
+
+
+Origin 1 
+    3 :     1500.00;
+
+Origin 2 
+    3 :    1500.00;
